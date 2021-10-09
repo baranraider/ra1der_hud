@@ -1,7 +1,1 @@
-###################################################################################################################################################################################
-
-ustun-hud'dan çevrilmiş bir hud tasarımıdır, tüm sorunları fixlenmiş ve yuvarlak map ile çalışması için birkaç ayar yapılmıştır, iyi kullanımlar.
-
-###################################################################################################################################################################################
-
-Not : esx_status ve esx_basicneeds'i kurmayı unutmayın.
+ra1der_hud = dosya içerisinde verdiğim esx_basicneeds ve esx_status'u kurmayı unutmayın, iyi kullanımlar.
